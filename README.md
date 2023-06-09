@@ -1,0 +1,2 @@
+# goosebot
+Simple Discord bot 
